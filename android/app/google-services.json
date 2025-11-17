@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "142451834484",
+    "project_id": "login-bfb5c",
+    "storage_bucket": "login-bfb5c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142451834484:android:624ff59c606023e8ac5b21",
+        "android_client_info": {
+          "package_name": "com.example.loginmicrosoft"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Zc77Y2XJKo4itnPEoMpZHBllO3CLyQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
